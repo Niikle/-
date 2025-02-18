@@ -1,0 +1,992 @@
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.2\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.3\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.4\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.5\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.6\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.7\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.8\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.8.2\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.9\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.10.1 баг\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.10\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.11\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.12\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.13\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.14\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.2\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.3\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.5\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.6\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.7\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.8\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.9\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.10\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.11\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.12\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.13\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.15.14\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.3\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.4\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.5\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.7\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.8\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.16.9\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.2\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.3\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.4\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.17.5\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.2\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.3\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.4\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.18.5.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.2\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.3\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.4\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.20.5\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.21\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.2\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.21.4\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 1.22\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.2\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.3\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.4\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.5\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.8\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.10\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.11\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.12\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.13\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.14 — копия\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.0.15\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.0\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.pdb
+D:\Приложение для файлов 2.1.2\bin\Debug\Приложение для файлов 1.1.exe.config
+D:\Приложение для файлов 2.1.2\bin\Debug\Приложение для файлов 1.1.exe
+D:\Приложение для файлов 2.1.2\bin\Debug\Приложение для файлов 1.1.pdb
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.exe
+D:\Приложение для файлов 2.1.2\obj\Debug\Приложение для файлов 1.1.pdb
+D:\Приложение для файлов 2.1.3\bin\Debug\Приложение для файлов 1.1.exe.config
+D:\Приложение для файлов 2.1.3\bin\Debug\Приложение для файлов 1.1.exe
+D:\Приложение для файлов 2.1.3\bin\Debug\Приложение для файлов 1.1.pdb
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение для файлов 1.1.exe
+D:\Приложение для файлов 2.1.3\obj\Debug\Приложение для файлов 1.1.pdb
+D:\Приложение для файлов 2.2.0\bin\Debug\Приложение для файлов 1.1.exe.config
+D:\Приложение для файлов 2.2.0\bin\Debug\Приложение для файлов 1.1.exe
+D:\Приложение для файлов 2.2.0\bin\Debug\Приложение для файлов 1.1.pdb
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.exe
+D:\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.2.0\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.0\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.1\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.3\obj\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\bin\Debug\Приложение для файлов 1.1.exe.config
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\bin\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\bin\Debug\Приложение для файлов 1.1.pdb
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение для файлов 1.1.csproj.AssemblyReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение для файлов 1.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение для файлов 1.1.csproj.ResolveComReference.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение_для_файлов_1._1.Form1.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение_для_файлов_1._1.Properties.Resources.resources
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение для файлов 1.1.csproj.GenerateResource.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение для файлов 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение для файлов 1.1.exe
+C:\Users\Egor\source\repos\Приложение для файлов 2.4.4\obj\Debug\Приложение для файлов 1.1.pdb

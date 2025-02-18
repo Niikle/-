@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "f363aff0-cf2d-401e-ad05-2cfd4adb6318": {
+      "ProjectGuid": "f363aff0-cf2d-401e-ad05-2cfd4adb6318",
+      "DisplayName": "Приложение для файлов 1.1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
