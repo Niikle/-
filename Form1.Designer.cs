@@ -29,37 +29,37 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button26 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.buttonOpenIndications = new System.Windows.Forms.Button();
+            this.buttonCreateReportCard = new System.Windows.Forms.Button();
+            this.buttonOpenChart = new System.Windows.Forms.Button();
             this.buttonSave = new System.Windows.Forms.Button();
-            this.button25 = new System.Windows.Forms.Button();
+            this.buttonOpenReportCard = new System.Windows.Forms.Button();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.button23 = new System.Windows.Forms.Button();
+            this.buttonNumber0 = new System.Windows.Forms.Button();
             this.button22 = new System.Windows.Forms.Button();
             this.button21 = new System.Windows.Forms.Button();
             this.button20 = new System.Windows.Forms.Button();
-            this.button18 = new System.Windows.Forms.Button();
+            this.buttonCalculateAnswer = new System.Windows.Forms.Button();
+            this.buttonNumber9 = new System.Windows.Forms.Button();
+            this.buttonClearAnswer = new System.Windows.Forms.Button();
             this.button19 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
+            this.buttonNumber1 = new System.Windows.Forms.Button();
+            this.buttonNumber8 = new System.Windows.Forms.Button();
+            this.buttonNumber4 = new System.Windows.Forms.Button();
+            this.buttonNumber7 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
+            this.buttonNumber2 = new System.Windows.Forms.Button();
+            this.buttonNumber6 = new System.Windows.Forms.Button();
+            this.buttonNumber3 = new System.Windows.Forms.Button();
+            this.buttonNumber5 = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.radioButton8 = new System.Windows.Forms.RadioButton();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.radioButtonBackground0 = new System.Windows.Forms.RadioButton();
+            this.radioButtonBackground3 = new System.Windows.Forms.RadioButton();
+            this.radioButtonBackground2 = new System.Windows.Forms.RadioButton();
+            this.radioButtonBackground1 = new System.Windows.Forms.RadioButton();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
+            this.buttonStopTimer = new System.Windows.Forms.Button();
+            this.buttonStartTimer = new System.Windows.Forms.Button();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
@@ -68,6 +68,9 @@
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.textBox9 = new System.Windows.Forms.TextBox();
             this.groupBox5 = new System.Windows.Forms.GroupBox();
+            this.comboBox3 = new System.Windows.Forms.ComboBox();
+            this.comboBox2 = new System.Windows.Forms.ComboBox();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.button9 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
             this.groupBox7 = new System.Windows.Forms.GroupBox();
@@ -104,10 +107,10 @@
             this.dataGridViewTextBoxColumn30 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.dataGridViewTextBoxColumn31 = new System.Windows.Forms.DataGridViewCheckBoxColumn();
             this.label5 = new System.Windows.Forms.Label();
-            this.checkBox6 = new System.Windows.Forms.CheckBox();
-            this.checkBox7 = new System.Windows.Forms.CheckBox();
-            this.checkBox8 = new System.Windows.Forms.CheckBox();
-            this.checkBox9 = new System.Windows.Forms.CheckBox();
+            this.checkBoxRemove8Row1 = new System.Windows.Forms.CheckBox();
+            this.checkBoxRemove8Row2 = new System.Windows.Forms.CheckBox();
+            this.checkBoxRemove8Row3 = new System.Windows.Forms.CheckBox();
+            this.checkBoxRemove8Row4 = new System.Windows.Forms.CheckBox();
             this.textBoxF4 = new System.Windows.Forms.TextBox();
             this.textBoxF1 = new System.Windows.Forms.TextBox();
             this.textBoxF3 = new System.Windows.Forms.TextBox();
@@ -119,19 +122,19 @@
             this.radioButton4 = new System.Windows.Forms.RadioButton();
             this.checkBox5 = new System.Windows.Forms.CheckBox();
             this.label26 = new System.Windows.Forms.Label();
-            this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.checkBox2 = new System.Windows.Forms.CheckBox();
-            this.checkBox3 = new System.Windows.Forms.CheckBox();
-            this.checkBox4 = new System.Windows.Forms.CheckBox();
-            this.button31 = new System.Windows.Forms.Button();
-            this.button30 = new System.Windows.Forms.Button();
-            this.button29 = new System.Windows.Forms.Button();
-            this.button28 = new System.Windows.Forms.Button();
-            this.button27 = new System.Windows.Forms.Button();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.checkBoxAdd8Row1 = new System.Windows.Forms.CheckBox();
+            this.checkBoxAdd8Row2 = new System.Windows.Forms.CheckBox();
+            this.checkBoxAdd8Row3 = new System.Windows.Forms.CheckBox();
+            this.checkBoxAdd8Row4 = new System.Windows.Forms.CheckBox();
+            this.buttonClearRow4 = new System.Windows.Forms.Button();
+            this.buttonClearRow3 = new System.Windows.Forms.Button();
+            this.buttonClearRow2 = new System.Windows.Forms.Button();
+            this.buttonClearRow1 = new System.Windows.Forms.Button();
+            this.buttonClearAll = new System.Windows.Forms.Button();
+            this.textBoxNorma4 = new System.Windows.Forms.TextBox();
+            this.textBoxNorma3 = new System.Windows.Forms.TextBox();
+            this.textBoxNorma2 = new System.Windows.Forms.TextBox();
+            this.textBoxNorma1 = new System.Windows.Forms.TextBox();
             this.label10 = new System.Windows.Forms.Label();
             this.dgv = new System.Windows.Forms.DataGridView();
             this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -201,7 +204,7 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.textBoxVoda1 = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
+            this.buttonClearIndications = new System.Windows.Forms.Button();
             this.groupBox10 = new System.Windows.Forms.GroupBox();
             this.checkBox10 = new System.Windows.Forms.CheckBox();
             this.label12 = new System.Windows.Forms.Label();
@@ -209,17 +212,17 @@
             this.label8 = new System.Windows.Forms.Label();
             this.textBoxElektro2 = new System.Windows.Forms.TextBox();
             this.groupBox11 = new System.Windows.Forms.GroupBox();
-            this.button33 = new System.Windows.Forms.Button();
+            this.buttoLocalExportData = new System.Windows.Forms.Button();
             this.buttonExportData = new System.Windows.Forms.Button();
             this.label13 = new System.Windows.Forms.Label();
             this.buttonImportData = new System.Windows.Forms.Button();
-            this.button32 = new System.Windows.Forms.Button();
+            this.buttonCalculateReadings = new System.Windows.Forms.Button();
             this.textBoxBuilding24 = new System.Windows.Forms.TextBox();
             this.label14 = new System.Windows.Forms.Label();
             this.textBoxBuilding23All = new System.Windows.Forms.TextBox();
             this.textBoxBuilding23СentralHeating = new System.Windows.Forms.TextBox();
             this.label27 = new System.Windows.Forms.Label();
-            this.button34 = new System.Windows.Forms.Button();
+            this.buttonClearHeatReadings = new System.Windows.Forms.Button();
             this.label28 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
             this.textBoxBuilding23HotWater = new System.Windows.Forms.TextBox();
@@ -234,9 +237,6 @@
             this.ColumnAllBuildings = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ColumndeliteLines = new System.Windows.Forms.DataGridViewButtonColumn();
             this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
-            this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.comboBox3 = new System.Windows.Forms.ComboBox();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -258,11 +258,11 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.button3);
-            this.groupBox1.Controls.Add(this.button26);
-            this.groupBox1.Controls.Add(this.button1);
+            this.groupBox1.Controls.Add(this.buttonOpenIndications);
+            this.groupBox1.Controls.Add(this.buttonCreateReportCard);
+            this.groupBox1.Controls.Add(this.buttonOpenChart);
             this.groupBox1.Controls.Add(this.buttonSave);
-            this.groupBox1.Controls.Add(this.button25);
+            this.groupBox1.Controls.Add(this.buttonOpenReportCard);
             this.groupBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.groupBox1.Location = new System.Drawing.Point(969, 6);
             this.groupBox1.Name = "groupBox1";
@@ -271,38 +271,38 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Файлы";
             // 
-            // button3
+            // buttonOpenIndications
             // 
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.24F);
-            this.button3.Location = new System.Drawing.Point(104, 66);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(83, 44);
-            this.button3.TabIndex = 100;
-            this.button3.Text = "Открыть показания";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.button3_Click_1);
+            this.buttonOpenIndications.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.24F);
+            this.buttonOpenIndications.Location = new System.Drawing.Point(104, 66);
+            this.buttonOpenIndications.Name = "buttonOpenIndications";
+            this.buttonOpenIndications.Size = new System.Drawing.Size(83, 44);
+            this.buttonOpenIndications.TabIndex = 100;
+            this.buttonOpenIndications.Text = "Открыть показания";
+            this.buttonOpenIndications.UseVisualStyleBackColor = true;
+            this.buttonOpenIndications.Click += new System.EventHandler(this.button3_Click_1);
             // 
-            // button26
+            // buttonCreateReportCard
             // 
-            this.button26.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.24F);
-            this.button26.Location = new System.Drawing.Point(6, 16);
-            this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(92, 44);
-            this.button26.TabIndex = 42;
-            this.button26.Text = "Сформировать табель";
-            this.button26.UseVisualStyleBackColor = true;
-            this.button26.Click += new System.EventHandler(this.button26_Click);
+            this.buttonCreateReportCard.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.24F);
+            this.buttonCreateReportCard.Location = new System.Drawing.Point(6, 16);
+            this.buttonCreateReportCard.Name = "buttonCreateReportCard";
+            this.buttonCreateReportCard.Size = new System.Drawing.Size(92, 44);
+            this.buttonCreateReportCard.TabIndex = 42;
+            this.buttonCreateReportCard.Text = "Сформировать табель";
+            this.buttonCreateReportCard.UseVisualStyleBackColor = true;
+            this.buttonCreateReportCard.Click += new System.EventHandler(this.button26_Click);
             // 
-            // button1
+            // buttonOpenChart
             // 
-            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.24F);
-            this.button1.Location = new System.Drawing.Point(6, 66);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(92, 44);
-            this.button1.TabIndex = 5;
-            this.button1.Text = "Открыть график";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.buttonOpenChart.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.24F);
+            this.buttonOpenChart.Location = new System.Drawing.Point(6, 66);
+            this.buttonOpenChart.Name = "buttonOpenChart";
+            this.buttonOpenChart.Size = new System.Drawing.Size(92, 44);
+            this.buttonOpenChart.TabIndex = 5;
+            this.buttonOpenChart.Text = "Открыть график";
+            this.buttonOpenChart.UseVisualStyleBackColor = true;
+            this.buttonOpenChart.Click += new System.EventHandler(this.button1_Click);
             // 
             // buttonSave
             // 
@@ -315,36 +315,36 @@
             this.buttonSave.UseVisualStyleBackColor = true;
             this.buttonSave.Click += new System.EventHandler(this.buttonSave_Click);
             // 
-            // button25
+            // buttonOpenReportCard
             // 
-            this.button25.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.24F);
-            this.button25.Location = new System.Drawing.Point(104, 16);
-            this.button25.Name = "button25";
-            this.button25.Size = new System.Drawing.Size(83, 45);
-            this.button25.TabIndex = 40;
-            this.button25.Text = "Открыть табель";
-            this.button25.UseVisualStyleBackColor = true;
-            this.button25.Click += new System.EventHandler(this.button25_Click);
+            this.buttonOpenReportCard.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.24F);
+            this.buttonOpenReportCard.Location = new System.Drawing.Point(104, 16);
+            this.buttonOpenReportCard.Name = "buttonOpenReportCard";
+            this.buttonOpenReportCard.Size = new System.Drawing.Size(83, 45);
+            this.buttonOpenReportCard.TabIndex = 40;
+            this.buttonOpenReportCard.Text = "Открыть табель";
+            this.buttonOpenReportCard.UseVisualStyleBackColor = true;
+            this.buttonOpenReportCard.Click += new System.EventHandler(this.button25_Click);
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.button23);
+            this.groupBox2.Controls.Add(this.buttonNumber0);
             this.groupBox2.Controls.Add(this.button22);
             this.groupBox2.Controls.Add(this.button21);
             this.groupBox2.Controls.Add(this.button20);
-            this.groupBox2.Controls.Add(this.button5);
-            this.groupBox2.Controls.Add(this.button18);
-            this.groupBox2.Controls.Add(this.button4);
+            this.groupBox2.Controls.Add(this.buttonCalculateAnswer);
+            this.groupBox2.Controls.Add(this.buttonNumber9);
+            this.groupBox2.Controls.Add(this.buttonClearAnswer);
             this.groupBox2.Controls.Add(this.button19);
-            this.groupBox2.Controls.Add(this.button10);
-            this.groupBox2.Controls.Add(this.button17);
-            this.groupBox2.Controls.Add(this.button13);
-            this.groupBox2.Controls.Add(this.button16);
+            this.groupBox2.Controls.Add(this.buttonNumber1);
+            this.groupBox2.Controls.Add(this.buttonNumber8);
+            this.groupBox2.Controls.Add(this.buttonNumber4);
+            this.groupBox2.Controls.Add(this.buttonNumber7);
             this.groupBox2.Controls.Add(this.textBox1);
-            this.groupBox2.Controls.Add(this.button11);
-            this.groupBox2.Controls.Add(this.button15);
-            this.groupBox2.Controls.Add(this.button12);
-            this.groupBox2.Controls.Add(this.button14);
+            this.groupBox2.Controls.Add(this.buttonNumber2);
+            this.groupBox2.Controls.Add(this.buttonNumber6);
+            this.groupBox2.Controls.Add(this.buttonNumber3);
+            this.groupBox2.Controls.Add(this.buttonNumber5);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.groupBox2.Location = new System.Drawing.Point(3, 18);
             this.groupBox2.Name = "groupBox2";
@@ -353,16 +353,16 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Калькулятор";
             // 
-            // button23
+            // buttonNumber0
             // 
-            this.button23.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button23.Location = new System.Drawing.Point(6, 201);
-            this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(171, 33);
-            this.button23.TabIndex = 17;
-            this.button23.Text = "0";
-            this.button23.UseVisualStyleBackColor = true;
-            this.button23.Click += new System.EventHandler(this.button23_Click);
+            this.buttonNumber0.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber0.Location = new System.Drawing.Point(6, 201);
+            this.buttonNumber0.Name = "buttonNumber0";
+            this.buttonNumber0.Size = new System.Drawing.Size(171, 33);
+            this.buttonNumber0.TabIndex = 17;
+            this.buttonNumber0.Text = "0";
+            this.buttonNumber0.UseVisualStyleBackColor = true;
+            this.buttonNumber0.Click += new System.EventHandler(this.button23_Click);
             // 
             // button22
             // 
@@ -397,16 +397,38 @@
             this.button20.UseVisualStyleBackColor = true;
             this.button20.Click += new System.EventHandler(this.button20_Click);
             // 
-            // button18
+            // buttonCalculateAnswer
             // 
-            this.button18.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button18.Location = new System.Drawing.Point(97, 142);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(40, 39);
-            this.button18.TabIndex = 21;
-            this.button18.Text = "9";
-            this.button18.UseVisualStyleBackColor = true;
-            this.button18.Click += new System.EventHandler(this.button18_Click);
+            this.buttonCalculateAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
+            this.buttonCalculateAnswer.Location = new System.Drawing.Point(97, 242);
+            this.buttonCalculateAnswer.Name = "buttonCalculateAnswer";
+            this.buttonCalculateAnswer.Size = new System.Drawing.Size(80, 48);
+            this.buttonCalculateAnswer.TabIndex = 12;
+            this.buttonCalculateAnswer.Text = "Ответ";
+            this.buttonCalculateAnswer.UseVisualStyleBackColor = true;
+            this.buttonCalculateAnswer.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // buttonNumber9
+            // 
+            this.buttonNumber9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber9.Location = new System.Drawing.Point(97, 142);
+            this.buttonNumber9.Name = "buttonNumber9";
+            this.buttonNumber9.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber9.TabIndex = 21;
+            this.buttonNumber9.Text = "9";
+            this.buttonNumber9.UseVisualStyleBackColor = true;
+            this.buttonNumber9.Click += new System.EventHandler(this.button18_Click);
+            // 
+            // buttonClearAnswer
+            // 
+            this.buttonClearAnswer.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
+            this.buttonClearAnswer.Location = new System.Drawing.Point(6, 242);
+            this.buttonClearAnswer.Name = "buttonClearAnswer";
+            this.buttonClearAnswer.Size = new System.Drawing.Size(80, 48);
+            this.buttonClearAnswer.TabIndex = 5;
+            this.buttonClearAnswer.Text = "Очистить";
+            this.buttonClearAnswer.UseVisualStyleBackColor = true;
+            this.buttonClearAnswer.Click += new System.EventHandler(this.button4_Click);
             // 
             // button19
             // 
@@ -419,71 +441,49 @@
             this.button19.UseVisualStyleBackColor = true;
             this.button19.Click += new System.EventHandler(this.button19_Click);
             // 
-            // button10
+            // buttonNumber1
             // 
-            this.button10.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button10.Location = new System.Drawing.Point(6, 52);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(40, 39);
-            this.button10.TabIndex = 13;
-            this.button10.Text = "1";
-            this.button10.UseVisualStyleBackColor = true;
-            this.button10.Click += new System.EventHandler(this.button10_Click);
+            this.buttonNumber1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber1.Location = new System.Drawing.Point(6, 52);
+            this.buttonNumber1.Name = "buttonNumber1";
+            this.buttonNumber1.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber1.TabIndex = 13;
+            this.buttonNumber1.Text = "1";
+            this.buttonNumber1.UseVisualStyleBackColor = true;
+            this.buttonNumber1.Click += new System.EventHandler(this.button10_Click);
             // 
-            // button17
+            // buttonNumber8
             // 
-            this.button17.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button17.Location = new System.Drawing.Point(51, 142);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(40, 39);
-            this.button17.TabIndex = 20;
-            this.button17.Text = "8";
-            this.button17.UseVisualStyleBackColor = true;
-            this.button17.Click += new System.EventHandler(this.button17_Click);
+            this.buttonNumber8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber8.Location = new System.Drawing.Point(51, 142);
+            this.buttonNumber8.Name = "buttonNumber8";
+            this.buttonNumber8.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber8.TabIndex = 20;
+            this.buttonNumber8.Text = "8";
+            this.buttonNumber8.UseVisualStyleBackColor = true;
+            this.buttonNumber8.Click += new System.EventHandler(this.button17_Click);
             // 
-            // button5
+            // buttonNumber4
             // 
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
-            this.button5.Location = new System.Drawing.Point(97, 242);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(80, 48);
-            this.button5.TabIndex = 12;
-            this.button5.Text = "Ответ";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            this.buttonNumber4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber4.Location = new System.Drawing.Point(6, 97);
+            this.buttonNumber4.Name = "buttonNumber4";
+            this.buttonNumber4.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber4.TabIndex = 16;
+            this.buttonNumber4.Text = "4";
+            this.buttonNumber4.UseVisualStyleBackColor = true;
+            this.buttonNumber4.Click += new System.EventHandler(this.button13_Click);
             // 
-            // button13
+            // buttonNumber7
             // 
-            this.button13.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button13.Location = new System.Drawing.Point(6, 97);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(40, 39);
-            this.button13.TabIndex = 16;
-            this.button13.Text = "4";
-            this.button13.UseVisualStyleBackColor = true;
-            this.button13.Click += new System.EventHandler(this.button13_Click);
-            // 
-            // button4
-            // 
-            this.button4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F);
-            this.button4.Location = new System.Drawing.Point(6, 242);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(80, 48);
-            this.button4.TabIndex = 5;
-            this.button4.Text = "Очистить";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // button16
-            // 
-            this.button16.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button16.Location = new System.Drawing.Point(6, 142);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(40, 39);
-            this.button16.TabIndex = 19;
-            this.button16.Text = "7";
-            this.button16.UseVisualStyleBackColor = true;
-            this.button16.Click += new System.EventHandler(this.button16_Click);
+            this.buttonNumber7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber7.Location = new System.Drawing.Point(6, 142);
+            this.buttonNumber7.Name = "buttonNumber7";
+            this.buttonNumber7.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber7.TabIndex = 19;
+            this.buttonNumber7.Text = "7";
+            this.buttonNumber7.UseVisualStyleBackColor = true;
+            this.buttonNumber7.Click += new System.EventHandler(this.button16_Click);
             // 
             // textBox1
             // 
@@ -494,56 +494,56 @@
             this.textBox1.Size = new System.Drawing.Size(171, 28);
             this.textBox1.TabIndex = 5;
             // 
-            // button11
+            // buttonNumber2
             // 
-            this.button11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button11.Location = new System.Drawing.Point(51, 52);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(40, 39);
-            this.button11.TabIndex = 14;
-            this.button11.Text = "2";
-            this.button11.UseVisualStyleBackColor = true;
-            this.button11.Click += new System.EventHandler(this.button11_Click);
+            this.buttonNumber2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber2.Location = new System.Drawing.Point(51, 52);
+            this.buttonNumber2.Name = "buttonNumber2";
+            this.buttonNumber2.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber2.TabIndex = 14;
+            this.buttonNumber2.Text = "2";
+            this.buttonNumber2.UseVisualStyleBackColor = true;
+            this.buttonNumber2.Click += new System.EventHandler(this.button11_Click);
             // 
-            // button15
+            // buttonNumber6
             // 
-            this.button15.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button15.Location = new System.Drawing.Point(97, 97);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(40, 39);
-            this.button15.TabIndex = 18;
-            this.button15.Text = "6";
-            this.button15.UseVisualStyleBackColor = true;
-            this.button15.Click += new System.EventHandler(this.button15_Click);
+            this.buttonNumber6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber6.Location = new System.Drawing.Point(97, 97);
+            this.buttonNumber6.Name = "buttonNumber6";
+            this.buttonNumber6.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber6.TabIndex = 18;
+            this.buttonNumber6.Text = "6";
+            this.buttonNumber6.UseVisualStyleBackColor = true;
+            this.buttonNumber6.Click += new System.EventHandler(this.button15_Click);
             // 
-            // button12
+            // buttonNumber3
             // 
-            this.button12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button12.Location = new System.Drawing.Point(97, 52);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(40, 39);
-            this.button12.TabIndex = 15;
-            this.button12.Text = "3";
-            this.button12.UseVisualStyleBackColor = true;
-            this.button12.Click += new System.EventHandler(this.button12_Click);
+            this.buttonNumber3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber3.Location = new System.Drawing.Point(97, 52);
+            this.buttonNumber3.Name = "buttonNumber3";
+            this.buttonNumber3.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber3.TabIndex = 15;
+            this.buttonNumber3.Text = "3";
+            this.buttonNumber3.UseVisualStyleBackColor = true;
+            this.buttonNumber3.Click += new System.EventHandler(this.button12_Click);
             // 
-            // button14
+            // buttonNumber5
             // 
-            this.button14.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
-            this.button14.Location = new System.Drawing.Point(51, 97);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(40, 39);
-            this.button14.TabIndex = 17;
-            this.button14.Text = "5";
-            this.button14.UseVisualStyleBackColor = true;
-            this.button14.Click += new System.EventHandler(this.button14_Click);
+            this.buttonNumber5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F);
+            this.buttonNumber5.Location = new System.Drawing.Point(51, 97);
+            this.buttonNumber5.Name = "buttonNumber5";
+            this.buttonNumber5.Size = new System.Drawing.Size(40, 39);
+            this.buttonNumber5.TabIndex = 17;
+            this.buttonNumber5.Text = "5";
+            this.buttonNumber5.UseVisualStyleBackColor = true;
+            this.buttonNumber5.Click += new System.EventHandler(this.button14_Click);
             // 
             // groupBox3
             // 
-            this.groupBox3.Controls.Add(this.radioButton8);
-            this.groupBox3.Controls.Add(this.radioButton3);
-            this.groupBox3.Controls.Add(this.radioButton2);
-            this.groupBox3.Controls.Add(this.radioButton1);
+            this.groupBox3.Controls.Add(this.radioButtonBackground0);
+            this.groupBox3.Controls.Add(this.radioButtonBackground3);
+            this.groupBox3.Controls.Add(this.radioButtonBackground2);
+            this.groupBox3.Controls.Add(this.radioButtonBackground1);
             this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.groupBox3.Location = new System.Drawing.Point(195, 164);
             this.groupBox3.Name = "groupBox3";
@@ -552,58 +552,58 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Фон";
             // 
-            // radioButton8
+            // radioButtonBackground0
             // 
-            this.radioButton8.AutoSize = true;
-            this.radioButton8.Location = new System.Drawing.Point(6, 115);
-            this.radioButton8.Name = "radioButton8";
-            this.radioButton8.Size = new System.Drawing.Size(57, 24);
-            this.radioButton8.TabIndex = 6;
-            this.radioButton8.TabStop = true;
-            this.radioButton8.Text = "Нет";
-            this.radioButton8.UseVisualStyleBackColor = true;
-            this.radioButton8.CheckedChanged += new System.EventHandler(this.radioButton8_CheckedChanged);
+            this.radioButtonBackground0.AutoSize = true;
+            this.radioButtonBackground0.Location = new System.Drawing.Point(6, 115);
+            this.radioButtonBackground0.Name = "radioButtonBackground0";
+            this.radioButtonBackground0.Size = new System.Drawing.Size(57, 24);
+            this.radioButtonBackground0.TabIndex = 6;
+            this.radioButtonBackground0.TabStop = true;
+            this.radioButtonBackground0.Text = "Нет";
+            this.radioButtonBackground0.UseVisualStyleBackColor = true;
+            this.radioButtonBackground0.CheckedChanged += new System.EventHandler(this.radioButton8_CheckedChanged);
             // 
-            // radioButton3
+            // radioButtonBackground3
             // 
-            this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(6, 85);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(101, 24);
-            this.radioButton3.TabIndex = 5;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "Вариант3";
-            this.radioButton3.UseVisualStyleBackColor = true;
-            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
+            this.radioButtonBackground3.AutoSize = true;
+            this.radioButtonBackground3.Location = new System.Drawing.Point(6, 85);
+            this.radioButtonBackground3.Name = "radioButtonBackground3";
+            this.radioButtonBackground3.Size = new System.Drawing.Size(101, 24);
+            this.radioButtonBackground3.TabIndex = 5;
+            this.radioButtonBackground3.TabStop = true;
+            this.radioButtonBackground3.Text = "Вариант3";
+            this.radioButtonBackground3.UseVisualStyleBackColor = true;
+            this.radioButtonBackground3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
-            // radioButton2
+            // radioButtonBackground2
             // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(6, 55);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(101, 24);
-            this.radioButton2.TabIndex = 1;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "Вариант2";
-            this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
+            this.radioButtonBackground2.AutoSize = true;
+            this.radioButtonBackground2.Location = new System.Drawing.Point(6, 55);
+            this.radioButtonBackground2.Name = "radioButtonBackground2";
+            this.radioButtonBackground2.Size = new System.Drawing.Size(101, 24);
+            this.radioButtonBackground2.TabIndex = 1;
+            this.radioButtonBackground2.TabStop = true;
+            this.radioButtonBackground2.Text = "Вариант2";
+            this.radioButtonBackground2.UseVisualStyleBackColor = true;
+            this.radioButtonBackground2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
-            // radioButton1
+            // radioButtonBackground1
             // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(6, 25);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(101, 24);
-            this.radioButton1.TabIndex = 0;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "Вариант1";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
+            this.radioButtonBackground1.AutoSize = true;
+            this.radioButtonBackground1.Location = new System.Drawing.Point(6, 25);
+            this.radioButtonBackground1.Name = "radioButtonBackground1";
+            this.radioButtonBackground1.Size = new System.Drawing.Size(101, 24);
+            this.radioButtonBackground1.TabIndex = 0;
+            this.radioButtonBackground1.TabStop = true;
+            this.radioButtonBackground1.Text = "Вариант1";
+            this.radioButtonBackground1.UseVisualStyleBackColor = true;
+            this.radioButtonBackground1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // groupBox4
             // 
-            this.groupBox4.Controls.Add(this.button7);
-            this.groupBox4.Controls.Add(this.button6);
+            this.groupBox4.Controls.Add(this.buttonStopTimer);
+            this.groupBox4.Controls.Add(this.buttonStartTimer);
             this.groupBox4.Controls.Add(this.textBox6);
             this.groupBox4.Controls.Add(this.textBox5);
             this.groupBox4.Controls.Add(this.label3);
@@ -617,27 +617,27 @@
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Таймер";
             // 
-            // button7
+            // buttonStopTimer
             // 
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.button7.Location = new System.Drawing.Point(91, 74);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(73, 57);
-            this.button7.TabIndex = 14;
-            this.button7.Text = "Остановка таймера";
-            this.button7.UseVisualStyleBackColor = true;
-            this.button7.Click += new System.EventHandler(this.button7_Click);
+            this.buttonStopTimer.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.buttonStopTimer.Location = new System.Drawing.Point(91, 74);
+            this.buttonStopTimer.Name = "buttonStopTimer";
+            this.buttonStopTimer.Size = new System.Drawing.Size(73, 57);
+            this.buttonStopTimer.TabIndex = 14;
+            this.buttonStopTimer.Text = "Остановка таймера";
+            this.buttonStopTimer.UseVisualStyleBackColor = true;
+            this.buttonStopTimer.Click += new System.EventHandler(this.button7_Click);
             // 
-            // button6
+            // buttonStartTimer
             // 
-            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.button6.Location = new System.Drawing.Point(6, 74);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(73, 57);
-            this.button6.TabIndex = 6;
-            this.button6.Text = "Запуск таймера";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            this.buttonStartTimer.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.buttonStartTimer.Location = new System.Drawing.Point(6, 74);
+            this.buttonStartTimer.Name = "buttonStartTimer";
+            this.buttonStartTimer.Size = new System.Drawing.Size(73, 57);
+            this.buttonStartTimer.TabIndex = 6;
+            this.buttonStartTimer.Text = "Запуск таймера";
+            this.buttonStartTimer.UseVisualStyleBackColor = true;
+            this.buttonStartTimer.Click += new System.EventHandler(this.button6_Click);
             // 
             // textBox6
             // 
@@ -724,6 +724,194 @@
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Часы и будильник";
             // 
+            // comboBox3
+            // 
+            this.comboBox3.DropDownHeight = 300;
+            this.comboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox3.DropDownWidth = 51;
+            this.comboBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F);
+            this.comboBox3.FormattingEnabled = true;
+            this.comboBox3.IntegralHeight = false;
+            this.comboBox3.Items.AddRange(new object[] {
+            "00",
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50",
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "57",
+            "58",
+            "59"});
+            this.comboBox3.Location = new System.Drawing.Point(120, 191);
+            this.comboBox3.Name = "comboBox3";
+            this.comboBox3.Size = new System.Drawing.Size(51, 37);
+            this.comboBox3.TabIndex = 21;
+            this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
+            // 
+            // comboBox2
+            // 
+            this.comboBox2.DropDownHeight = 300;
+            this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F);
+            this.comboBox2.FormattingEnabled = true;
+            this.comboBox2.IntegralHeight = false;
+            this.comboBox2.Items.AddRange(new object[] {
+            "00",
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "29",
+            "30",
+            "31",
+            "32",
+            "33",
+            "34",
+            "35",
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47",
+            "48",
+            "49",
+            "50",
+            "51",
+            "52",
+            "53",
+            "54",
+            "55",
+            "56",
+            "57",
+            "58",
+            "59"});
+            this.comboBox2.Location = new System.Drawing.Point(63, 191);
+            this.comboBox2.Name = "comboBox2";
+            this.comboBox2.Size = new System.Drawing.Size(51, 37);
+            this.comboBox2.TabIndex = 20;
+            this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
+            // 
+            // comboBox1
+            // 
+            this.comboBox1.DropDownHeight = 300;
+            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F);
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.IntegralHeight = false;
+            this.comboBox1.Items.AddRange(new object[] {
+            "00",
+            "01",
+            "02",
+            "03",
+            "04",
+            "05",
+            "06",
+            "07",
+            "08",
+            "09",
+            "10",
+            "11",
+            "12",
+            "13",
+            "14",
+            "15",
+            "16",
+            "17",
+            "18",
+            "19",
+            "20",
+            "21",
+            "22",
+            "23",
+            "24"});
+            this.comboBox1.Location = new System.Drawing.Point(6, 191);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(51, 37);
+            this.comboBox1.TabIndex = 19;
+            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            // 
             // button9
             // 
             this.button9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
@@ -750,10 +938,10 @@
             // 
             this.groupBox7.Controls.Add(this.dvg1);
             this.groupBox7.Controls.Add(this.label5);
-            this.groupBox7.Controls.Add(this.checkBox6);
-            this.groupBox7.Controls.Add(this.checkBox7);
-            this.groupBox7.Controls.Add(this.checkBox8);
-            this.groupBox7.Controls.Add(this.checkBox9);
+            this.groupBox7.Controls.Add(this.checkBoxRemove8Row1);
+            this.groupBox7.Controls.Add(this.checkBoxRemove8Row2);
+            this.groupBox7.Controls.Add(this.checkBoxRemove8Row3);
+            this.groupBox7.Controls.Add(this.checkBoxRemove8Row4);
             this.groupBox7.Controls.Add(this.textBoxF4);
             this.groupBox7.Controls.Add(this.textBoxF1);
             this.groupBox7.Controls.Add(this.textBoxF3);
@@ -765,15 +953,15 @@
             this.groupBox7.Controls.Add(this.radioButton4);
             this.groupBox7.Controls.Add(this.checkBox5);
             this.groupBox7.Controls.Add(this.label26);
-            this.groupBox7.Controls.Add(this.checkBox1);
-            this.groupBox7.Controls.Add(this.checkBox2);
-            this.groupBox7.Controls.Add(this.checkBox3);
-            this.groupBox7.Controls.Add(this.checkBox4);
-            this.groupBox7.Controls.Add(this.button31);
-            this.groupBox7.Controls.Add(this.button30);
-            this.groupBox7.Controls.Add(this.button29);
-            this.groupBox7.Controls.Add(this.button28);
-            this.groupBox7.Controls.Add(this.button27);
+            this.groupBox7.Controls.Add(this.checkBoxAdd8Row1);
+            this.groupBox7.Controls.Add(this.checkBoxAdd8Row2);
+            this.groupBox7.Controls.Add(this.checkBoxAdd8Row3);
+            this.groupBox7.Controls.Add(this.checkBoxAdd8Row4);
+            this.groupBox7.Controls.Add(this.buttonClearRow4);
+            this.groupBox7.Controls.Add(this.buttonClearRow3);
+            this.groupBox7.Controls.Add(this.buttonClearRow2);
+            this.groupBox7.Controls.Add(this.buttonClearRow1);
+            this.groupBox7.Controls.Add(this.buttonClearAll);
             this.groupBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.7F);
             this.groupBox7.Location = new System.Drawing.Point(6, 6);
             this.groupBox7.Name = "groupBox7";
@@ -1055,45 +1243,45 @@
             this.label5.TabIndex = 104;
             this.label5.Text = "- 8";
             // 
-            // checkBox6
+            // checkBoxRemove8Row1
             // 
-            this.checkBox6.AutoSize = true;
-            this.checkBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.checkBox6.Location = new System.Drawing.Point(105, 53);
-            this.checkBox6.Name = "checkBox6";
-            this.checkBox6.Size = new System.Drawing.Size(15, 14);
-            this.checkBox6.TabIndex = 101;
-            this.checkBox6.UseVisualStyleBackColor = true;
+            this.checkBoxRemove8Row1.AutoSize = true;
+            this.checkBoxRemove8Row1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.checkBoxRemove8Row1.Location = new System.Drawing.Point(105, 53);
+            this.checkBoxRemove8Row1.Name = "checkBoxRemove8Row1";
+            this.checkBoxRemove8Row1.Size = new System.Drawing.Size(15, 14);
+            this.checkBoxRemove8Row1.TabIndex = 101;
+            this.checkBoxRemove8Row1.UseVisualStyleBackColor = true;
             // 
-            // checkBox7
+            // checkBoxRemove8Row2
             // 
-            this.checkBox7.AutoSize = true;
-            this.checkBox7.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.checkBox7.Location = new System.Drawing.Point(105, 78);
-            this.checkBox7.Name = "checkBox7";
-            this.checkBox7.Size = new System.Drawing.Size(15, 14);
-            this.checkBox7.TabIndex = 102;
-            this.checkBox7.UseVisualStyleBackColor = true;
+            this.checkBoxRemove8Row2.AutoSize = true;
+            this.checkBoxRemove8Row2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.checkBoxRemove8Row2.Location = new System.Drawing.Point(105, 78);
+            this.checkBoxRemove8Row2.Name = "checkBoxRemove8Row2";
+            this.checkBoxRemove8Row2.Size = new System.Drawing.Size(15, 14);
+            this.checkBoxRemove8Row2.TabIndex = 102;
+            this.checkBoxRemove8Row2.UseVisualStyleBackColor = true;
             // 
-            // checkBox8
+            // checkBoxRemove8Row3
             // 
-            this.checkBox8.AutoSize = true;
-            this.checkBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.checkBox8.Location = new System.Drawing.Point(105, 104);
-            this.checkBox8.Name = "checkBox8";
-            this.checkBox8.Size = new System.Drawing.Size(15, 14);
-            this.checkBox8.TabIndex = 103;
-            this.checkBox8.UseVisualStyleBackColor = true;
+            this.checkBoxRemove8Row3.AutoSize = true;
+            this.checkBoxRemove8Row3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.checkBoxRemove8Row3.Location = new System.Drawing.Point(105, 104);
+            this.checkBoxRemove8Row3.Name = "checkBoxRemove8Row3";
+            this.checkBoxRemove8Row3.Size = new System.Drawing.Size(15, 14);
+            this.checkBoxRemove8Row3.TabIndex = 103;
+            this.checkBoxRemove8Row3.UseVisualStyleBackColor = true;
             // 
-            // checkBox9
+            // checkBoxRemove8Row4
             // 
-            this.checkBox9.AutoSize = true;
-            this.checkBox9.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.checkBox9.Location = new System.Drawing.Point(105, 130);
-            this.checkBox9.Name = "checkBox9";
-            this.checkBox9.Size = new System.Drawing.Size(15, 14);
-            this.checkBox9.TabIndex = 100;
-            this.checkBox9.UseVisualStyleBackColor = true;
+            this.checkBoxRemove8Row4.AutoSize = true;
+            this.checkBoxRemove8Row4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.checkBoxRemove8Row4.Location = new System.Drawing.Point(105, 130);
+            this.checkBoxRemove8Row4.Name = "checkBoxRemove8Row4";
+            this.checkBoxRemove8Row4.Size = new System.Drawing.Size(15, 14);
+            this.checkBoxRemove8Row4.TabIndex = 100;
+            this.checkBoxRemove8Row4.UseVisualStyleBackColor = true;
             // 
             // textBoxF4
             // 
@@ -1215,136 +1403,136 @@
             this.label26.TabIndex = 86;
             this.label26.Text = "+ 8";
             // 
-            // checkBox1
+            // checkBoxAdd8Row1
             // 
-            this.checkBox1.AutoSize = true;
-            this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.checkBox1.Location = new System.Drawing.Point(84, 52);
-            this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(15, 14);
-            this.checkBox1.TabIndex = 83;
-            this.checkBox1.UseVisualStyleBackColor = true;
+            this.checkBoxAdd8Row1.AutoSize = true;
+            this.checkBoxAdd8Row1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.checkBoxAdd8Row1.Location = new System.Drawing.Point(84, 52);
+            this.checkBoxAdd8Row1.Name = "checkBoxAdd8Row1";
+            this.checkBoxAdd8Row1.Size = new System.Drawing.Size(15, 14);
+            this.checkBoxAdd8Row1.TabIndex = 83;
+            this.checkBoxAdd8Row1.UseVisualStyleBackColor = true;
             // 
-            // checkBox2
+            // checkBoxAdd8Row2
             // 
-            this.checkBox2.AutoSize = true;
-            this.checkBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.checkBox2.Location = new System.Drawing.Point(84, 78);
-            this.checkBox2.Name = "checkBox2";
-            this.checkBox2.Size = new System.Drawing.Size(15, 14);
-            this.checkBox2.TabIndex = 84;
-            this.checkBox2.UseVisualStyleBackColor = true;
+            this.checkBoxAdd8Row2.AutoSize = true;
+            this.checkBoxAdd8Row2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.checkBoxAdd8Row2.Location = new System.Drawing.Point(84, 78);
+            this.checkBoxAdd8Row2.Name = "checkBoxAdd8Row2";
+            this.checkBoxAdd8Row2.Size = new System.Drawing.Size(15, 14);
+            this.checkBoxAdd8Row2.TabIndex = 84;
+            this.checkBoxAdd8Row2.UseVisualStyleBackColor = true;
             // 
-            // checkBox3
+            // checkBoxAdd8Row3
             // 
-            this.checkBox3.AutoSize = true;
-            this.checkBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.checkBox3.Location = new System.Drawing.Point(84, 104);
-            this.checkBox3.Name = "checkBox3";
-            this.checkBox3.Size = new System.Drawing.Size(15, 14);
-            this.checkBox3.TabIndex = 85;
-            this.checkBox3.UseVisualStyleBackColor = true;
+            this.checkBoxAdd8Row3.AutoSize = true;
+            this.checkBoxAdd8Row3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.checkBoxAdd8Row3.Location = new System.Drawing.Point(84, 104);
+            this.checkBoxAdd8Row3.Name = "checkBoxAdd8Row3";
+            this.checkBoxAdd8Row3.Size = new System.Drawing.Size(15, 14);
+            this.checkBoxAdd8Row3.TabIndex = 85;
+            this.checkBoxAdd8Row3.UseVisualStyleBackColor = true;
             // 
-            // checkBox4
+            // checkBoxAdd8Row4
             // 
-            this.checkBox4.AutoSize = true;
-            this.checkBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.checkBox4.Location = new System.Drawing.Point(84, 130);
-            this.checkBox4.Name = "checkBox4";
-            this.checkBox4.Size = new System.Drawing.Size(15, 14);
-            this.checkBox4.TabIndex = 82;
-            this.checkBox4.UseVisualStyleBackColor = true;
+            this.checkBoxAdd8Row4.AutoSize = true;
+            this.checkBoxAdd8Row4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.checkBoxAdd8Row4.Location = new System.Drawing.Point(84, 130);
+            this.checkBoxAdd8Row4.Name = "checkBoxAdd8Row4";
+            this.checkBoxAdd8Row4.Size = new System.Drawing.Size(15, 14);
+            this.checkBoxAdd8Row4.TabIndex = 82;
+            this.checkBoxAdd8Row4.UseVisualStyleBackColor = true;
             // 
-            // button31
+            // buttonClearRow4
             // 
-            this.button31.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.button31.Location = new System.Drawing.Point(862, 126);
-            this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(89, 22);
-            this.button31.TabIndex = 81;
-            this.button31.Text = "Очистить 4";
-            this.button31.UseVisualStyleBackColor = true;
-            this.button31.Click += new System.EventHandler(this.button31_Click);
+            this.buttonClearRow4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.buttonClearRow4.Location = new System.Drawing.Point(862, 126);
+            this.buttonClearRow4.Name = "buttonClearRow4";
+            this.buttonClearRow4.Size = new System.Drawing.Size(89, 22);
+            this.buttonClearRow4.TabIndex = 81;
+            this.buttonClearRow4.Text = "Очистить 4";
+            this.buttonClearRow4.UseVisualStyleBackColor = true;
+            this.buttonClearRow4.Click += new System.EventHandler(this.button31_Click);
             // 
-            // button30
+            // buttonClearRow3
             // 
-            this.button30.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.button30.Location = new System.Drawing.Point(862, 102);
-            this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(89, 22);
-            this.button30.TabIndex = 80;
-            this.button30.Text = "Очистить 3";
-            this.button30.UseVisualStyleBackColor = true;
-            this.button30.Click += new System.EventHandler(this.button30_Click);
+            this.buttonClearRow3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.buttonClearRow3.Location = new System.Drawing.Point(862, 102);
+            this.buttonClearRow3.Name = "buttonClearRow3";
+            this.buttonClearRow3.Size = new System.Drawing.Size(89, 22);
+            this.buttonClearRow3.TabIndex = 80;
+            this.buttonClearRow3.Text = "Очистить 3";
+            this.buttonClearRow3.UseVisualStyleBackColor = true;
+            this.buttonClearRow3.Click += new System.EventHandler(this.button30_Click);
             // 
-            // button29
+            // buttonClearRow2
             // 
-            this.button29.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.button29.Location = new System.Drawing.Point(862, 77);
-            this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(89, 22);
-            this.button29.TabIndex = 79;
-            this.button29.Text = "Очистить 2";
-            this.button29.UseVisualStyleBackColor = true;
-            this.button29.Click += new System.EventHandler(this.button29_Click);
+            this.buttonClearRow2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.buttonClearRow2.Location = new System.Drawing.Point(862, 77);
+            this.buttonClearRow2.Name = "buttonClearRow2";
+            this.buttonClearRow2.Size = new System.Drawing.Size(89, 22);
+            this.buttonClearRow2.TabIndex = 79;
+            this.buttonClearRow2.Text = "Очистить 2";
+            this.buttonClearRow2.UseVisualStyleBackColor = true;
+            this.buttonClearRow2.Click += new System.EventHandler(this.button29_Click);
             // 
-            // button28
+            // buttonClearRow1
             // 
-            this.button28.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
-            this.button28.Location = new System.Drawing.Point(862, 52);
-            this.button28.Name = "button28";
-            this.button28.Size = new System.Drawing.Size(89, 22);
-            this.button28.TabIndex = 78;
-            this.button28.Text = "Очистить 1";
-            this.button28.UseVisualStyleBackColor = true;
-            this.button28.Click += new System.EventHandler(this.button28_Click);
+            this.buttonClearRow1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.buttonClearRow1.Location = new System.Drawing.Point(862, 52);
+            this.buttonClearRow1.Name = "buttonClearRow1";
+            this.buttonClearRow1.Size = new System.Drawing.Size(89, 22);
+            this.buttonClearRow1.TabIndex = 78;
+            this.buttonClearRow1.Text = "Очистить 1";
+            this.buttonClearRow1.UseVisualStyleBackColor = true;
+            this.buttonClearRow1.Click += new System.EventHandler(this.button28_Click);
             // 
-            // button27
+            // buttonClearAll
             // 
-            this.button27.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F);
-            this.button27.Location = new System.Drawing.Point(862, 16);
-            this.button27.Name = "button27";
-            this.button27.Size = new System.Drawing.Size(89, 33);
-            this.button27.TabIndex = 77;
-            this.button27.Text = "Очистить всё";
-            this.button27.UseVisualStyleBackColor = true;
-            this.button27.Click += new System.EventHandler(this.button27_Click);
+            this.buttonClearAll.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F);
+            this.buttonClearAll.Location = new System.Drawing.Point(862, 16);
+            this.buttonClearAll.Name = "buttonClearAll";
+            this.buttonClearAll.Size = new System.Drawing.Size(89, 33);
+            this.buttonClearAll.TabIndex = 77;
+            this.buttonClearAll.Text = "Очистить всё";
+            this.buttonClearAll.UseVisualStyleBackColor = true;
+            this.buttonClearAll.Click += new System.EventHandler(this.button27_Click);
             // 
-            // textBox11
+            // textBoxNorma4
             // 
-            this.textBox11.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.textBox11.Location = new System.Drawing.Point(85, 107);
-            this.textBox11.Name = "textBox11";
-            this.textBox11.Size = new System.Drawing.Size(24, 20);
-            this.textBox11.TabIndex = 76;
-            this.textBox11.Text = "192";
+            this.textBoxNorma4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.textBoxNorma4.Location = new System.Drawing.Point(85, 107);
+            this.textBoxNorma4.Name = "textBoxNorma4";
+            this.textBoxNorma4.Size = new System.Drawing.Size(24, 20);
+            this.textBoxNorma4.TabIndex = 76;
+            this.textBoxNorma4.Text = "192";
             // 
-            // textBox10
+            // textBoxNorma3
             // 
-            this.textBox10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.textBox10.Location = new System.Drawing.Point(85, 84);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(24, 20);
-            this.textBox10.TabIndex = 75;
-            this.textBox10.Text = "192";
+            this.textBoxNorma3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.textBoxNorma3.Location = new System.Drawing.Point(85, 84);
+            this.textBoxNorma3.Name = "textBoxNorma3";
+            this.textBoxNorma3.Size = new System.Drawing.Size(24, 20);
+            this.textBoxNorma3.TabIndex = 75;
+            this.textBoxNorma3.Text = "192";
             // 
-            // textBox4
+            // textBoxNorma2
             // 
-            this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.textBox4.Location = new System.Drawing.Point(85, 61);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(24, 20);
-            this.textBox4.TabIndex = 74;
-            this.textBox4.Text = "192";
+            this.textBoxNorma2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.textBoxNorma2.Location = new System.Drawing.Point(85, 61);
+            this.textBoxNorma2.Name = "textBoxNorma2";
+            this.textBoxNorma2.Size = new System.Drawing.Size(24, 20);
+            this.textBoxNorma2.TabIndex = 74;
+            this.textBoxNorma2.Text = "192";
             // 
-            // textBox3
+            // textBoxNorma1
             // 
-            this.textBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.textBox3.Location = new System.Drawing.Point(85, 37);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(24, 20);
-            this.textBox3.TabIndex = 39;
-            this.textBox3.Text = "192";
+            this.textBoxNorma1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.textBoxNorma1.Location = new System.Drawing.Point(85, 37);
+            this.textBoxNorma1.Name = "textBoxNorma1";
+            this.textBoxNorma1.Size = new System.Drawing.Size(24, 20);
+            this.textBoxNorma1.TabIndex = 39;
+            this.textBoxNorma1.Text = "192";
             // 
             // label10
             // 
@@ -1565,14 +1753,14 @@
             this.groupBox8.Controls.Add(this.label24);
             this.groupBox8.Controls.Add(this.label23);
             this.groupBox8.Controls.Add(this.label22);
-            this.groupBox8.Controls.Add(this.textBox10);
-            this.groupBox8.Controls.Add(this.textBox11);
+            this.groupBox8.Controls.Add(this.textBoxNorma3);
+            this.groupBox8.Controls.Add(this.textBoxNorma4);
             this.groupBox8.Controls.Add(this.label21);
             this.groupBox8.Controls.Add(this.label20);
             this.groupBox8.Controls.Add(this.label19);
-            this.groupBox8.Controls.Add(this.textBox4);
+            this.groupBox8.Controls.Add(this.textBoxNorma2);
             this.groupBox8.Controls.Add(this.label18);
-            this.groupBox8.Controls.Add(this.textBox3);
+            this.groupBox8.Controls.Add(this.textBoxNorma1);
             this.groupBox8.Controls.Add(this.label17);
             this.groupBox8.Controls.Add(this.label16);
             this.groupBox8.Controls.Add(this.label15);
@@ -1935,20 +2123,20 @@
             this.textBoxVoda1.TabIndex = 1;
             this.textBoxVoda1.Text = "1234567";
             // 
-            // button2
+            // buttonClearIndications
             // 
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.button2.Location = new System.Drawing.Point(6, 243);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(214, 54);
-            this.button2.TabIndex = 100;
-            this.button2.Text = "Очистить показания";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.buttonClearIndications.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.buttonClearIndications.Location = new System.Drawing.Point(6, 243);
+            this.buttonClearIndications.Name = "buttonClearIndications";
+            this.buttonClearIndications.Size = new System.Drawing.Size(214, 54);
+            this.buttonClearIndications.TabIndex = 100;
+            this.buttonClearIndications.Text = "Очистить показания";
+            this.buttonClearIndications.UseVisualStyleBackColor = true;
+            this.buttonClearIndications.Click += new System.EventHandler(this.button2_Click);
             // 
             // groupBox10
             // 
-            this.groupBox10.Controls.Add(this.button2);
+            this.groupBox10.Controls.Add(this.buttonClearIndications);
             this.groupBox10.Controls.Add(this.checkBox10);
             this.groupBox10.Controls.Add(this.textBoxVoda1);
             this.groupBox10.Controls.Add(this.label7);
@@ -2020,17 +2208,17 @@
             // 
             // groupBox11
             // 
-            this.groupBox11.Controls.Add(this.button33);
+            this.groupBox11.Controls.Add(this.buttoLocalExportData);
             this.groupBox11.Controls.Add(this.buttonExportData);
             this.groupBox11.Controls.Add(this.label13);
             this.groupBox11.Controls.Add(this.buttonImportData);
-            this.groupBox11.Controls.Add(this.button32);
+            this.groupBox11.Controls.Add(this.buttonCalculateReadings);
             this.groupBox11.Controls.Add(this.textBoxBuilding24);
             this.groupBox11.Controls.Add(this.label14);
             this.groupBox11.Controls.Add(this.textBoxBuilding23All);
             this.groupBox11.Controls.Add(this.textBoxBuilding23СentralHeating);
             this.groupBox11.Controls.Add(this.label27);
-            this.groupBox11.Controls.Add(this.button34);
+            this.groupBox11.Controls.Add(this.buttonClearHeatReadings);
             this.groupBox11.Controls.Add(this.label28);
             this.groupBox11.Controls.Add(this.label29);
             this.groupBox11.Controls.Add(this.textBoxBuilding23HotWater);
@@ -2043,16 +2231,16 @@
             this.groupBox11.TabStop = false;
             this.groupBox11.Text = "Тепловой счётчик";
             // 
-            // button33
+            // buttoLocalExportData
             // 
-            this.button33.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.button33.Location = new System.Drawing.Point(115, 149);
-            this.button33.Name = "button33";
-            this.button33.Size = new System.Drawing.Size(105, 41);
-            this.button33.TabIndex = 106;
-            this.button33.Text = "Локальный экспорт данных";
-            this.button33.UseVisualStyleBackColor = true;
-            this.button33.Click += new System.EventHandler(this.button33_Click);
+            this.buttoLocalExportData.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.buttoLocalExportData.Location = new System.Drawing.Point(115, 149);
+            this.buttoLocalExportData.Name = "buttoLocalExportData";
+            this.buttoLocalExportData.Size = new System.Drawing.Size(105, 41);
+            this.buttoLocalExportData.TabIndex = 106;
+            this.buttoLocalExportData.Text = "Локальный экспорт данных";
+            this.buttoLocalExportData.UseVisualStyleBackColor = true;
+            this.buttoLocalExportData.Click += new System.EventHandler(this.button33_Click);
             // 
             // buttonExportData
             // 
@@ -2086,16 +2274,16 @@
             this.buttonImportData.UseVisualStyleBackColor = true;
             this.buttonImportData.Click += new System.EventHandler(this.buttonImportData_Click);
             // 
-            // button32
+            // buttonCalculateReadings
             // 
-            this.button32.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.button32.Location = new System.Drawing.Point(115, 243);
-            this.button32.Name = "button32";
-            this.button32.Size = new System.Drawing.Size(105, 54);
-            this.button32.TabIndex = 101;
-            this.button32.Text = "Расчитать показания";
-            this.button32.UseVisualStyleBackColor = true;
-            this.button32.Click += new System.EventHandler(this.button32_Click);
+            this.buttonCalculateReadings.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.buttonCalculateReadings.Location = new System.Drawing.Point(115, 243);
+            this.buttonCalculateReadings.Name = "buttonCalculateReadings";
+            this.buttonCalculateReadings.Size = new System.Drawing.Size(105, 54);
+            this.buttonCalculateReadings.TabIndex = 101;
+            this.buttonCalculateReadings.Text = "Расчитать показания";
+            this.buttonCalculateReadings.UseVisualStyleBackColor = true;
+            this.buttonCalculateReadings.Click += new System.EventHandler(this.button32_Click);
             // 
             // textBoxBuilding24
             // 
@@ -2146,16 +2334,16 @@
             this.label27.TabIndex = 102;
             this.label27.Text = "Строение 23 Ц.О.";
             // 
-            // button34
+            // buttonClearHeatReadings
             // 
-            this.button34.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
-            this.button34.Location = new System.Drawing.Point(3, 243);
-            this.button34.Name = "button34";
-            this.button34.Size = new System.Drawing.Size(106, 54);
-            this.button34.TabIndex = 100;
-            this.button34.Text = "Очистить показания";
-            this.button34.UseVisualStyleBackColor = true;
-            this.button34.Click += new System.EventHandler(this.button34_Click);
+            this.buttonClearHeatReadings.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F);
+            this.buttonClearHeatReadings.Location = new System.Drawing.Point(3, 243);
+            this.buttonClearHeatReadings.Name = "buttonClearHeatReadings";
+            this.buttonClearHeatReadings.Size = new System.Drawing.Size(106, 54);
+            this.buttonClearHeatReadings.TabIndex = 100;
+            this.buttonClearHeatReadings.Text = "Очистить показания";
+            this.buttonClearHeatReadings.UseVisualStyleBackColor = true;
+            this.buttonClearHeatReadings.Click += new System.EventHandler(this.button34_Click);
             // 
             // label28
             // 
@@ -2302,194 +2490,6 @@
             this.tabPage3.Text = "Остальное";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
-            // comboBox1
-            // 
-            this.comboBox1.DropDownHeight = 300;
-            this.comboBox1.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F);
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.IntegralHeight = false;
-            this.comboBox1.Items.AddRange(new object[] {
-            "00",
-            "01",
-            "02",
-            "03",
-            "04",
-            "05",
-            "06",
-            "07",
-            "08",
-            "09",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15",
-            "16",
-            "17",
-            "18",
-            "19",
-            "20",
-            "21",
-            "22",
-            "23",
-            "24"});
-            this.comboBox1.Location = new System.Drawing.Point(6, 191);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(51, 37);
-            this.comboBox1.TabIndex = 19;
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
-            // 
-            // comboBox2
-            // 
-            this.comboBox2.DropDownHeight = 300;
-            this.comboBox2.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F);
-            this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.IntegralHeight = false;
-            this.comboBox2.Items.AddRange(new object[] {
-            "00",
-            "01",
-            "02",
-            "03",
-            "04",
-            "05",
-            "06",
-            "07",
-            "08",
-            "09",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15",
-            "16",
-            "17",
-            "18",
-            "19",
-            "20",
-            "21",
-            "22",
-            "23",
-            "24",
-            "25",
-            "26",
-            "27",
-            "28",
-            "29",
-            "30",
-            "31",
-            "32",
-            "33",
-            "34",
-            "35",
-            "36",
-            "37",
-            "38",
-            "39",
-            "40",
-            "41",
-            "42",
-            "43",
-            "44",
-            "45",
-            "46",
-            "47",
-            "48",
-            "49",
-            "50",
-            "51",
-            "52",
-            "53",
-            "54",
-            "55",
-            "56",
-            "57",
-            "58",
-            "59"});
-            this.comboBox2.Location = new System.Drawing.Point(63, 191);
-            this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(51, 37);
-            this.comboBox2.TabIndex = 20;
-            this.comboBox2.SelectedIndexChanged += new System.EventHandler(this.comboBox2_SelectedIndexChanged);
-            // 
-            // comboBox3
-            // 
-            this.comboBox3.DropDownHeight = 300;
-            this.comboBox3.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboBox3.DropDownWidth = 51;
-            this.comboBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 17F);
-            this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.IntegralHeight = false;
-            this.comboBox3.Items.AddRange(new object[] {
-            "00",
-            "01",
-            "02",
-            "03",
-            "04",
-            "05",
-            "06",
-            "07",
-            "08",
-            "09",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15",
-            "16",
-            "17",
-            "18",
-            "19",
-            "20",
-            "21",
-            "22",
-            "23",
-            "24",
-            "25",
-            "26",
-            "27",
-            "28",
-            "29",
-            "30",
-            "31",
-            "32",
-            "33",
-            "34",
-            "35",
-            "36",
-            "37",
-            "38",
-            "39",
-            "40",
-            "41",
-            "42",
-            "43",
-            "44",
-            "45",
-            "46",
-            "47",
-            "48",
-            "49",
-            "50",
-            "51",
-            "52",
-            "53",
-            "54",
-            "55",
-            "56",
-            "57",
-            "58",
-            "59"});
-            this.comboBox3.Location = new System.Drawing.Point(120, 191);
-            this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(51, 37);
-            this.comboBox3.TabIndex = 21;
-            this.comboBox3.SelectedIndexChanged += new System.EventHandler(this.comboBox3_SelectedIndexChanged);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2534,15 +2534,15 @@
 
         #endregion
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button buttonOpenChart;
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.RadioButton radioButton3;
-        private System.Windows.Forms.RadioButton radioButton2;
-        private System.Windows.Forms.RadioButton radioButton1;
+        private System.Windows.Forms.Button buttonCalculateAnswer;
+        private System.Windows.Forms.Button buttonClearAnswer;
+        private System.Windows.Forms.RadioButton radioButtonBackground3;
+        private System.Windows.Forms.RadioButton radioButtonBackground2;
+        private System.Windows.Forms.RadioButton radioButtonBackground1;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.TextBox textBox5;
@@ -2550,34 +2550,34 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox textBox7;
         private System.Windows.Forms.TextBox textBox8;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button buttonStopTimer;
+        private System.Windows.Forms.Button buttonStartTimer;
         private System.Windows.Forms.TextBox textBox9;
         private System.Windows.Forms.GroupBox groupBox5;
         private System.Windows.Forms.Button button8;
         private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button23;
+        private System.Windows.Forms.Button buttonNumber0;
         private System.Windows.Forms.Button button22;
         private System.Windows.Forms.Button button21;
         private System.Windows.Forms.Button button20;
         private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Button button18;
-        private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button10;
+        private System.Windows.Forms.Button buttonNumber9;
+        private System.Windows.Forms.Button buttonNumber8;
+        private System.Windows.Forms.Button buttonNumber7;
+        private System.Windows.Forms.Button buttonNumber6;
+        private System.Windows.Forms.Button buttonNumber5;
+        private System.Windows.Forms.Button buttonNumber4;
+        private System.Windows.Forms.Button buttonNumber3;
+        private System.Windows.Forms.Button buttonNumber2;
+        private System.Windows.Forms.Button buttonNumber1;
         private System.Windows.Forms.GroupBox groupBox7;
         private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.TextBox textBox11;
-        private System.Windows.Forms.TextBox textBox10;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBoxNorma4;
+        private System.Windows.Forms.TextBox textBoxNorma3;
+        private System.Windows.Forms.TextBox textBoxNorma2;
+        private System.Windows.Forms.TextBox textBoxNorma1;
         private System.Windows.Forms.DataGridView dgv;
-        private System.Windows.Forms.Button button25;
+        private System.Windows.Forms.Button buttonOpenReportCard;
         private System.Windows.Forms.GroupBox groupBox8;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.Label labelFG4;
@@ -2615,12 +2615,12 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Column29;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column30;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column31;
-        private System.Windows.Forms.Button button26;
-        private System.Windows.Forms.Button button31;
-        private System.Windows.Forms.Button button30;
-        private System.Windows.Forms.Button button29;
-        private System.Windows.Forms.Button button28;
-        private System.Windows.Forms.Button button27;
+        private System.Windows.Forms.Button buttonCreateReportCard;
+        private System.Windows.Forms.Button buttonClearRow4;
+        private System.Windows.Forms.Button buttonClearRow3;
+        private System.Windows.Forms.Button buttonClearRow2;
+        private System.Windows.Forms.Button buttonClearRow1;
+        private System.Windows.Forms.Button buttonClearAll;
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.Label label17;
@@ -2632,10 +2632,10 @@
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label26;
-        private System.Windows.Forms.CheckBox checkBox1;
-        private System.Windows.Forms.CheckBox checkBox2;
-        private System.Windows.Forms.CheckBox checkBox3;
-        private System.Windows.Forms.CheckBox checkBox4;
+        private System.Windows.Forms.CheckBox checkBoxAdd8Row1;
+        private System.Windows.Forms.CheckBox checkBoxAdd8Row2;
+        private System.Windows.Forms.CheckBox checkBoxAdd8Row3;
+        private System.Windows.Forms.CheckBox checkBoxAdd8Row4;
         private System.Windows.Forms.RadioButton radioButton7;
         private System.Windows.Forms.RadioButton radioButton6;
         private System.Windows.Forms.RadioButton radioButton5;
@@ -2662,18 +2662,18 @@
         private System.Windows.Forms.TextBox textBoxF3;
         private System.Windows.Forms.TextBox textBoxF2;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.CheckBox checkBox6;
-        private System.Windows.Forms.CheckBox checkBox7;
-        private System.Windows.Forms.CheckBox checkBox8;
-        private System.Windows.Forms.CheckBox checkBox9;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.CheckBox checkBoxRemove8Row1;
+        private System.Windows.Forms.CheckBox checkBoxRemove8Row2;
+        private System.Windows.Forms.CheckBox checkBoxRemove8Row3;
+        private System.Windows.Forms.CheckBox checkBoxRemove8Row4;
+        private System.Windows.Forms.Button buttonOpenIndications;
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.TextBox textBoxElektro1;
         private System.Windows.Forms.TextBox textBoxVoda2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox textBoxVoda1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button buttonClearIndications;
         private System.Windows.Forms.GroupBox groupBox10;
         private System.Windows.Forms.CheckBox checkBox10;
         private System.Windows.Forms.Label label12;
@@ -2684,13 +2684,13 @@
         private System.Windows.Forms.Button buttonExportData;
         private System.Windows.Forms.Button buttonImportData;
         private System.Windows.Forms.Label label13;
-        private System.Windows.Forms.Button button32;
+        private System.Windows.Forms.Button buttonCalculateReadings;
         private System.Windows.Forms.TextBox textBoxBuilding24;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.TextBox textBoxBuilding23All;
         private System.Windows.Forms.TextBox textBoxBuilding23СentralHeating;
         private System.Windows.Forms.Label label27;
-        private System.Windows.Forms.Button button34;
+        private System.Windows.Forms.Button buttonClearHeatReadings;
         private System.Windows.Forms.Label label28;
         private System.Windows.Forms.Label label29;
         private System.Windows.Forms.TextBox textBoxBuilding23HotWater;
@@ -2699,9 +2699,9 @@
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.TabPage tabPage3;
-        private System.Windows.Forms.RadioButton radioButton8;
+        private System.Windows.Forms.RadioButton radioButtonBackground0;
         private System.Windows.Forms.DataGridView dataGridView2;
-        private System.Windows.Forms.Button button33;
+        private System.Windows.Forms.Button buttoLocalExportData;
         private System.Windows.Forms.DataGridView dvg1;
         private System.Windows.Forms.DataGridViewCheckBoxColumn dataGridViewTextBoxColumn1;
         private System.Windows.Forms.DataGridViewCheckBoxColumn dataGridViewTextBoxColumn2;

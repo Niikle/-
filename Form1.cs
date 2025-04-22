@@ -319,14 +319,14 @@ namespace Приложение_для_файлов_1._1
             if (timer.Enabled)
             {
                 timer.Stop();
-                button7.Text = "Очистка таймера";
-                button6.Text = "Возобновление таймера";
+                buttonStopTimer.Text = "Очистка таймера";
+                buttonStartTimer.Text = "Возобновление таймера";
             }
             else
             {
                 timer.Stop();
-                button7.Text = "Остановка таймера";
-                button6.Text = "Запуск таймера";
+                buttonStopTimer.Text = "Остановка таймера";
+                buttonStartTimer.Text = "Запуск таймера";
                 textBox5.Text = "00";
                 textBox6.Text = "00";
                 textBox7.Text = "00";
@@ -353,7 +353,7 @@ namespace Приложение_для_файлов_1._1
 
         private void radioButton1_CheckedChanged(object sender, EventArgs e)
         {
-            if (radioButton1.Checked)
+            if (radioButtonBackground1.Checked)
             {
                 this.BackgroundImage = Resources.Вариант1;
                 //tabPage1.BackgroundImage = Resources.Вариант1;
@@ -365,7 +365,7 @@ namespace Приложение_для_файлов_1._1
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
         {
-            if (radioButton2.Checked)
+            if (radioButtonBackground2.Checked)
             {
                 this.BackgroundImage = Resources.Вариант2;
                 //tabPage1.BackgroundImage = Resources.Вариант2;
@@ -376,7 +376,7 @@ namespace Приложение_для_файлов_1._1
 
         private void radioButton3_CheckedChanged(object sender, EventArgs e)
         {
-            if (radioButton3.Checked)
+            if (radioButtonBackground3.Checked)
             {
                 this.BackgroundImage = Resources.Вариант3;
                 //tabPage1.BackgroundImage = Resources.Вариант3;
@@ -387,7 +387,7 @@ namespace Приложение_для_файлов_1._1
 
         private void radioButton8_CheckedChanged(object sender, EventArgs e)
         {
-            if (radioButton8.Checked)
+            if (radioButtonBackground0.Checked)
             {
                 this.BackgroundImage = null;
                 tabPage1.BackgroundImage = null;
@@ -859,7 +859,7 @@ namespace Приложение_для_файлов_1._1
         private void button6_Click(object sender, EventArgs e)
         {
             timer.Start();
-            button7.Text = "Остановка таймера";
+            buttonStopTimer.Text = "Остановка таймера";
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -899,10 +899,10 @@ namespace Приложение_для_файлов_1._1
                     xlworksheet.Cells[12, 2] = labelFG3.Text.ToString();
                     xlworksheet.Cells[13, 2] = labelFG4.Text.ToString();
 
-                    xlworksheet.Cells[10, 4] = textBox3.Text.ToString();
-                    xlworksheet.Cells[11, 4] = textBox4.Text.ToString();
-                    xlworksheet.Cells[12, 4] = textBox10.Text.ToString();
-                    xlworksheet.Cells[13, 4] = textBox11.Text.ToString();
+                    xlworksheet.Cells[10, 4] = textBoxNorma1.Text.ToString();
+                    xlworksheet.Cells[11, 4] = textBoxNorma2.Text.ToString();
+                    xlworksheet.Cells[12, 4] = textBoxNorma3.Text.ToString();
+                    xlworksheet.Cells[13, 4] = textBoxNorma4.Text.ToString();
 
                     xlworksheet.Cells[10, 36] = "= SUM(E10:AI10)";
                     xlworksheet.Cells[11, 36] = "= SUM(E11:AI11)";
@@ -1064,10 +1064,10 @@ namespace Приложение_для_файлов_1._1
                     xlworksheet.Cells[12, 2] = labelFG3.Text.ToString();
                     xlworksheet.Cells[13, 2] = labelFG4.Text.ToString();
 
-                    xlworksheet.Cells[10, 4] = textBox3.Text.ToString();
-                    xlworksheet.Cells[11, 4] = textBox4.Text.ToString();
-                    xlworksheet.Cells[12, 4] = textBox10.Text.ToString();
-                    xlworksheet.Cells[13, 4] = textBox11.Text.ToString();
+                    xlworksheet.Cells[10, 4] = textBoxNorma1.Text.ToString();
+                    xlworksheet.Cells[11, 4] = textBoxNorma2.Text.ToString();
+                    xlworksheet.Cells[12, 4] = textBoxNorma3.Text.ToString();
+                    xlworksheet.Cells[13, 4] = textBoxNorma4.Text.ToString();
 
                     xlworksheet.Cells[10, 36] = "= SUM(E10:AI10)";
                     xlworksheet.Cells[11, 36] = "= SUM(E11:AI11)";
@@ -1245,7 +1245,7 @@ namespace Приложение_для_файлов_1._1
                     }
                 }
             }
-            if (checkBox1.Checked)//Первая строчка
+            if (checkBoxAdd8Row1.Checked)//Первая строчка
             {
                 if (array[0, 0] == 2)
                 {
@@ -1256,7 +1256,7 @@ namespace Приложение_для_файлов_1._1
                     dgv[0, 0].Value = "8";
                 }
             }
-            if (checkBox2.Checked)//Вторая строчка
+            if (checkBoxAdd8Row2.Checked)//Вторая строчка
             {
                 if (array[1, 0] == 2)
                 {
@@ -1267,7 +1267,7 @@ namespace Приложение_для_файлов_1._1
                     dgv[0, 1].Value = "8";
                 }
             }
-            if (checkBox3.Checked)//Третья строчка
+            if (checkBoxAdd8Row3.Checked)//Третья строчка
             {
                 if (array[2, 0] == 2)
                 {
@@ -1278,7 +1278,7 @@ namespace Приложение_для_файлов_1._1
                     dgv[0, 2].Value = "8";
                 }
             }
-            if (checkBox4.Checked)//Четвёртая строчка
+            if (checkBoxAdd8Row4.Checked)//Четвёртая строчка
             {
                 if (array[3, 0] == 2)
                 {
@@ -1289,7 +1289,7 @@ namespace Приложение_для_файлов_1._1
                     dgv[0, 3].Value = "8";
                 }
             }
-            if (checkBox6.Checked)//Первая строчка
+            if (checkBoxRemove8Row1.Checked)//Первая строчка
             {
                 for (int i = 30; i >= 0; i--)
                 {
@@ -1300,7 +1300,7 @@ namespace Приложение_для_файлов_1._1
                     }
                 }
             }
-            if (checkBox7.Checked)//Вторая строчка
+            if (checkBoxRemove8Row2.Checked)//Вторая строчка
             {
                 for (int i = 30; i >= 0; i--)
                 {
@@ -1311,7 +1311,7 @@ namespace Приложение_для_файлов_1._1
                     }
                 }
             }
-            if (checkBox8.Checked)//Третья строчка
+            if (checkBoxRemove8Row3.Checked)//Третья строчка
             {
                 for (int i = 30; i >= 0; i--)
                 {
@@ -1322,7 +1322,7 @@ namespace Приложение_для_файлов_1._1
                     }
                 }
             }
-            if (checkBox9.Checked)//Четрёртая строчка
+            if (checkBoxRemove8Row4.Checked)//Четрёртая строчка
             {
                 for (int i = 30; i >= 0; i--)
                 {
@@ -1356,10 +1356,10 @@ namespace Приложение_для_файлов_1._1
             label17.Text = Convert.ToString(sum_hours_B);
             label18.Text = Convert.ToString(sum_hours_C);
             label19.Text = Convert.ToString(sum_hours_D);
-            raznisa_A = sum_hours_A - Convert.ToInt32(textBox3.Text);//3 4 10 11
-            raznisa_B = sum_hours_B - Convert.ToInt32(textBox4.Text);
-            raznisa_C = sum_hours_C - Convert.ToInt32(textBox10.Text);
-            raznisa_D = sum_hours_D - Convert.ToInt32(textBox11.Text);
+            raznisa_A = sum_hours_A - Convert.ToInt32(textBoxNorma1.Text);//3 4 10 11
+            raznisa_B = sum_hours_B - Convert.ToInt32(textBoxNorma2.Text);
+            raznisa_C = sum_hours_C - Convert.ToInt32(textBoxNorma3.Text);
+            raznisa_D = sum_hours_D - Convert.ToInt32(textBoxNorma4.Text);
             label20.Text = Convert.ToString(raznisa_A);
             label21.Text = Convert.ToString(raznisa_B);
             label22.Text = Convert.ToString(raznisa_C);
@@ -1379,10 +1379,10 @@ namespace Приложение_для_файлов_1._1
                 textBoxZP3.Text != "" &&
                 textBoxZP4.Text != "")
             {
-                labelZP1.Text = Convert.ToString((Convert.ToDouble(textBoxZP1.Text) / Convert.ToDouble(textBox3.Text)) * Convert.ToDouble(label16.Text));
-                labelZP2.Text = Convert.ToString((Convert.ToDouble(textBoxZP2.Text) / Convert.ToDouble(textBox4.Text)) * Convert.ToDouble(label17.Text));
-                labelZP3.Text = Convert.ToString((Convert.ToDouble(textBoxZP3.Text) / Convert.ToDouble(textBox10.Text)) * Convert.ToDouble(label18.Text));
-                labelZP4.Text = Convert.ToString((Convert.ToDouble(textBoxZP4.Text) / Convert.ToDouble(textBox11.Text)) * Convert.ToDouble(label19.Text));
+                labelZP1.Text = Convert.ToString((Convert.ToDouble(textBoxZP1.Text) / Convert.ToDouble(textBoxNorma1.Text)) * Convert.ToDouble(label16.Text));
+                labelZP2.Text = Convert.ToString((Convert.ToDouble(textBoxZP2.Text) / Convert.ToDouble(textBoxNorma2.Text)) * Convert.ToDouble(label17.Text));
+                labelZP3.Text = Convert.ToString((Convert.ToDouble(textBoxZP3.Text) / Convert.ToDouble(textBoxNorma3.Text)) * Convert.ToDouble(label18.Text));
+                labelZP4.Text = Convert.ToString((Convert.ToDouble(textBoxZP4.Text) / Convert.ToDouble(textBoxNorma4.Text)) * Convert.ToDouble(label19.Text));
             }
         }
 
@@ -1501,34 +1501,22 @@ namespace Приложение_для_файлов_1._1
 
         private void radioButton4_CheckedChanged(object sender, EventArgs e)
         {
-            if(auto != 0)
-            {
-                auto = 1;
-            }
+            if(auto != 0) auto = 1;
         }
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
         {
-            if (auto != 0)
-            {
-                auto = 2;
-            }
+            if (auto != 0) auto = 2;
         }
 
         private void radioButton6_CheckedChanged(object sender, EventArgs e)
         {
-            if (auto != 0)
-            {
-                auto = 3;
-            }
+            if (auto != 0) auto = 3;
         }
 
         private void radioButton7_CheckedChanged(object sender, EventArgs e)
         {
-            if (auto != 0)
-            {
-                auto = 4;
-            }
+            if (auto != 0) auto = 4;
         }
 
         private void button32_Click(object sender, EventArgs e)
